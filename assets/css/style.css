@@ -740,7 +740,7 @@ h5 {
   margin-top: 16px;
   border: 1px solid #fcfcfc;
   border-radius: 6px;
-  background: #ffffff;
+  background: #e0dbdb;
 }
 .accordion-item .accordion-item-title {
   position: relative;
@@ -4730,8 +4730,8 @@ h5 {
 }
 
 .cssbuttons-io-button {
-  background: #03ff1c;
-  color: rgb(0, 0, 0);
+  background: #f30101ce;
+  color: rgb(255, 255, 255);
   font-family: inherit;
   padding: 0.35em;
   padding-left: 1.2em;
@@ -4748,6 +4748,7 @@ h5 {
   height: 2.8em;
   padding-right: 3.3em;
   cursor: pointer;
+  
 }
 
 .cssbuttons-io-button .icon {
