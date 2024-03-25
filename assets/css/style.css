@@ -4387,6 +4387,9 @@ h5 {
     height: 750px;
   }
 }
+.min-h-screen{
+  margin-top: 8em;
+}
 
 @media (min-width: 1200px) {
   .xl\:right-\[50px\] {
